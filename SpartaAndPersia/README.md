@@ -1,4 +1,4 @@
-# java
+# SpartaAndPersia
 War of Two Nations
 Sparta and Persia are fighting a war. A messenger is reporting the same to a remote location using the following format
 
