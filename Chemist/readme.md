@@ -9,7 +9,6 @@ Calculate the minimum number of bowls required to prepared the given compounds.
 
 Test case 1
 
-
 Input
 2
 H2O = H + O
@@ -18,6 +17,7 @@ NaCL= Na + CL
 NaCL
 Output
 1
+
 Test case 2
 Input 
 2
@@ -28,6 +28,7 @@ NaCL
 NaCL
 Output
 1
+
 Test case 3
 Input 
 4
@@ -37,7 +38,5 @@ H2SO4 = H2O + S03
 S03 = S + O
 1
 H2SO4
-
-
 Output
 3
